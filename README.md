@@ -20,5 +20,5 @@
 
 ![](https://img.shields.io/badge/-React-informational?style=flat&logo=React&logoColor=black&color=white)
 ![](https://img.shields.io/badge/-Node-informational?style=flat&logo=Node.js&logoColor=black&color=white)
-![](https://img.shields.io/badge/-SpringBoot-informational?style=flat&logo=SpringBoot&logoColor=black&color=white)
+![](https://img.shields.io/badge/-Spring-informational?style=flat&logo=SpringBoot&logoColor=black&color=white)
 
