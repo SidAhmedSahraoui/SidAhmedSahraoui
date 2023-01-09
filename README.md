@@ -5,8 +5,8 @@
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&log=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/sid-ahmed-sahraoui) -->
 
 ### 🔭What am I currently doing?
-- Making web stuff 🍎
-- Brute forcing problems on LeetCode 🐳
+- Making web stuff ⚛️
+- Brute forcing problems on LeetCode 👋
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sid-ahmed-sahraoui/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/sahraoui_sidou)
